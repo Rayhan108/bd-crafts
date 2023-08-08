@@ -3,7 +3,7 @@ import React from 'react';
 const rayhan = () => {
     return (
         <div>
-            <h1>TEST</h1>
+            <h1>TEST Test</h1>
         </div>
     );
 };
