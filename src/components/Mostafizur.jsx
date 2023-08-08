@@ -4,6 +4,7 @@ const Mostafizur = () => {
     return (
         <div>
             this is from Mostafizur Rahman
+            Dhaka international university
         </div>
     );
 };
